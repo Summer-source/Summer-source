@@ -1,4 +1,7 @@
-### Hi there 👋
+<h3 align="center">
+  Hi! there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" width="30px"/>
+</h3>
 
 <!--
 **Summer-source/Summer-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,15 +27,11 @@ Here are some ideas to get you started:
 <div id="username" align="center">
   <img src="https://komarev.com/ghpvc/?username=Summer-source&style=flat-square&color=blue" alt="Source" align="center"/>
 </div>
-<h4 align="center">
-  hi there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" width="30px"/>
-</h4>
 
 ---
 ### 👦 :About Me
 I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- 🔭 I’m currently working on
+- 🔭 I’m currently working on [Red hat System Administration i](https://www.redhat.com/en/services/training/rh124-red-hat-system-administration-i) and [Red hat System Administration ii](https://www.redhat.com/en/services/training/rh134-red-hat-system-administration-ii)
 - 📫:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/naushad-alam-552b9b184/)
 ---
 ---
