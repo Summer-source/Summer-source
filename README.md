@@ -21,7 +21,6 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </div>
 <div id="username" align="center">
@@ -30,7 +29,10 @@ Here are some ideas to get you started:
 
 ---
 ### 👦 :About Me
-I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+Hi my name is Naushad Alam,
+I am 22 yo and pursuing my Bachelor's degree in Computer Science.
+Besides that, I am passionate about learning new skills, playing Chess, working out and occasional gaming. 
+I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - 🔭 I’m currently working on [Red hat System Administration i](https://www.redhat.com/en/services/training/rh124-red-hat-system-administration-i) and [Red hat System Administration ii](https://www.redhat.com/en/services/training/rh134-red-hat-system-administration-ii)
 - 📫:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/naushad-alam-552b9b184/)
 ---
