@@ -35,7 +35,6 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 - 🔭 I’m currently working on
 - 📫:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/naushad-alam-552b9b184/)
 ---
-
 ---
 ### 🛠️: Language and Tools :
 <div>
