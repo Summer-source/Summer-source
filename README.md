@@ -37,7 +37,9 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - 📫:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/naushad-alam-552b9b184/)
 ---
 ---
+
 ### 🛠️: Language and Tools :
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
@@ -52,7 +54,9 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
          <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg" title="Git" **alt="Git" width="40" height="40"/>
   
 </div>
+
 ---
+
 ### 🔥:My Stats:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Summer-source&theme=dark)](https://git.io/streak-stats)
